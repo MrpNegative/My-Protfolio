@@ -4,3 +4,9 @@ body{
 h1{
     font-size: 50px;
 }
+span{
+    color: orange;
+}
+.first-seaction{
+    display: block;
+}
