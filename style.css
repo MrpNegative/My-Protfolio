@@ -10,15 +10,14 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 10%;
 }
 .half-width{
     width: 50%;
-    padding-right: 4%;
     padding-left: 3%;
 }
 .half-width img{
-    padding-left: 10%;
-    width: 100%;
+    width: 80%;
 }
 .hire-me{
     text-decoration: none;
@@ -32,4 +31,9 @@ section{
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
     
+}
+.dream-big{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
